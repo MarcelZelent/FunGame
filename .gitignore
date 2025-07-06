@@ -2,3 +2,4 @@
 /dist
 /tensorboard
 /flappy_env
+/__pycache

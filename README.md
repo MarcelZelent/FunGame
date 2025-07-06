@@ -1,0 +1,1 @@
+This is a short little project in Python. It is recreating the popular mobile game "Flappy Bird", with simple shapes and PyGame. In addition, there is a Reinforcement Learning agent implementation, which tries to get the best score in the game. This part is using OpenAI Gym framework.
